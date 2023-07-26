@@ -15,7 +15,7 @@
 <details>
   <summary><strong>Projects</strong></summary>
 
-  - Check out my <a href="https://ngalamac.github.io/" target="_blank">portfolio</a> for some of my projects.
+  - Check out my <a href="https://ngalamac.github.io/Ngala-Portfolio/">portfolio</a> for some of my projects.
 </details>
 
 <details>
