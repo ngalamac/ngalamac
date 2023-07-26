@@ -1,17 +1,21 @@
-# Hi there, I'm Ngala Mac! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=%F0%9F%91%8BHey+there%2C+I'm+NGALA+MAC;%F0%9F%9A%80I'm+a+full+stack+Developer.+;%F0%9F%8C%9FI'm+Available+for+new+deals%F0%9F%92%BC)](https://git.io/typing-svg)
 
-![Profile views](https://gpvc.arturio.dev/ngalamac)
+![](https://gpvc.arturio.dev/ngalamac)
 
 <details>
   <summary><strong>About Me</strong></summary>
 
-  <p class="typing-text">👋 Hi there, I'm Ngala Mac! 👋</p>
+  - 🔭 I'm a Fullstack Developer and Software Engineer.
+  - 🌍 Based in Cameroon.
+  - 🎓 Graduated from CITEC-HITM.
+  - 📚 Currently studying at Microverse.
+  - 👨‍🏫 Web Development Tutor and Teacher at ETS.NTECH Yaounde for 2 years.
 </details>
 
 <details>
   <summary><strong>Projects</strong></summary>
 
-  - Check out my [portfolio](https://ngalamac.github.io/) for some of my projects.
+  - Check out my <a href="https://ngalamac.github.io/" target="_blank">portfolio</a> for some of my projects.
 </details>
 
 <details>
@@ -27,29 +31,10 @@
   I love solving complex coding challenges and building meaningful applications.
 </details>
 
-<style>
-  .typing-text {
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 1px solid;
-    animation: typing 4s steps(40) infinite, blink-caret 1s step-end infinite;
-  }
+## 🌐 Let's connect now:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngala-mac-872a65220/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ngala.mac)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ngalamac)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+237652278121)
 
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
 
-  @keyframes blink-caret {
-    from, to {
-      border-color: transparent;
-    }
-    50% {
-      border-color: black;
-    }
-  }
-</style>
