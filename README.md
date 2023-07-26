@@ -46,3 +46,13 @@
   <img src="https://streak-stats.demolab.com?user=ngalamac&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ngalamac&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div>
+
+<h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,html,css,bootstrap,sass,js,react,java,cpp,py,mongodb,mysql,atom,vscode,figma," alt="skills logos" /> <br>
+  <h2></h2>
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=docker,js,redux,react,ruby,rails," alt="skills actively learning logos"> <br> 
+  <h2></h2>
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=angular,bash,bots,cs,dotnet,electron,flask,heroku,kotlin,kubernetes,linux,lua,pytorch,r,tensorflow,vue" alt="skills planning to learn logos">
+</div>
