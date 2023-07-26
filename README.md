@@ -7,9 +7,9 @@
 
   - 🔭 I'm a Fullstack Developer and Software Engineer.
   - 🌍 Based in Cameroon.
-  - 🎓 Graduated from CITEC-HITM.
+  - 🎓 Graduated from [CITEC-HITM.](http://www.citechitm.com/#/home)
   - 📚 Currently studying at Microverse.
-  - 👨‍🏫 Web Development Tutor and Teacher at ETS.NTECH Yaounde for 2 years.
+  - 👨‍🏫 Web Development Tutor and Teacher at [ETS.NTECH](https://etsntech.com/) Yaounde for 3 years.
 </details>
 
 <details>
