@@ -39,6 +39,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ngala.mac)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ngalamac)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+237652278121)
+[![AngelList](https://img.shields.io/badge/AngelList-%231C408A.svg?logo=AngelList&logoColor=white)](https://wellfound.com/u/ngala-mac)
+
 
 <div align=>
   <h2> 🏆 My Github Statistics <img src="./assets/borderseparator.gif"/></h2><br>
