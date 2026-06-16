@@ -1,60 +1,124 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&width=435&lines=%F0%9F%91%8BHey+there%2C+I'm+NGALA+MAC;%F0%9F%9A%80I'm+a+full+stack+Developer.+;%F0%9F%8C%9FI'm+Available+for+new+deals%F0%9F%92%BC)](https://git.io/typing-svg)
+```md
+<h1 align="center">Hi 👋, I'm Ngala Mac</h1>
 
-<div align="center"> 
-  <p><b>My Profile View count</b></p>
-  <img src="https://profile-counter.glitch.me/ngalamac/count.svg" />
-</div>
+<h3 align="center">Full-Stack Developer • Software Engineer • Mentor</h3>
 
-<details>
-  <summary><strong>About Me</strong></summary>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineer;Web+Development+Tutor;Available+for+New+Opportunities" alt="Typing SVG" />
+</p>
 
-  - 🔭 I'm a Fullstack Developer and Software Engineer.
-  - 🌍 Based in Cameroon.
-  - 🎓 Graduated from [CITEC-HITM.](http://www.citechitm.com/#/home)
-  - 📚 Currently studying at Microverse.
-  - 👨‍🏫 Web Development Tutor and Teacher at [ETS.NTECH](https://etsntech.com/) Yaounde for 3 years.
-</details>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ngalamac/count.svg" alt="Profile Views" />
+</p>
 
-<details>
-  <summary><strong>Projects</strong></summary>
+---
 
-  - Check out my <a href="https://ngalamac.github.io/Ngala-Portfolio/">portfolio</a> for some of my projects.
-</details>
+## 🚀 About Me
 
-<details>
-  <summary><strong>Contact Me</strong></summary>
+- 💼 Full-Stack Developer & Software Engineer
+- 🌍 Based in Cameroon
+- 🎓 Graduate of CITEC-HITM
+- 📚 Currently studying at Microverse
+- 👨‍🏫 Web Development Tutor at ETS.NTECH, Yaoundé (3+ years)
+- 💡 Passionate about solving complex coding challenges and building meaningful applications
 
-  - 📞 Phone: +237 652278121
-  - 📧 Email: macngala4@gmail.com
-</details>
+---
 
-<details>
-  <summary><strong>Fun Fact</strong></summary>
+## 🌟 Featured Work
 
-  I love solving complex coding challenges and building meaningful applications.
-</details>
+🔗 **Portfolio:**  
+https://ngalamac.github.io/Ngala-Portfolio/
 
-## 🌐 Let's connect now:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngala-mac-872a65220/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ngala.mac)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ngalamac)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+237652278121)
-[![AngelList](https://img.shields.io/badge/AngelList-%231C408A.svg?logo=AngelList&logoColor=white)](https://wellfound.com/u/ngala-mac)
+Explore projects showcasing my skills in web development, software engineering, and problem-solving.
 
+---
 
-<div align=>
-  <h2> 🏆 My Github Statistics <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ngalamac&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=ngalamac&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ngalamac&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-</div>
+## 🤝 Connect With Me
 
-<h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,html,css,bootstrap,sass,js,react,java,cpp,py,mongodb,mysql,atom,vscode,figma," alt="skills logos" /> <br>
-  <h2></h2>
-  <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,js,redux,react,ruby,rails," alt="skills actively learning logos"> <br> 
-  <h2></h2>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bots,cs,dotnet,electron,flask,heroku,kotlin,kubernetes,linux,lua,pytorch,r,tensorflow,vue" alt="skills planning to learn logos">
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ngala-mac-872a65220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/ngala.mac">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/ngalamac">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://api.whatsapp.com/send?phone=237652278121">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://wellfound.com/u/ngala-mac">
+    <img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge"/>
+  </a>
+</p>
+
+📧 **Email:** `macngala4@gmail.com`
+
+📱 **Phone:** `+237 652 278 121`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ngalamac&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=ngalamac&theme=radical"/>
+  <img width="49%" src="https://github-readme-stats-godkingjay.vercel.app/api?username=ngalamac&show_icons=true&count_private=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ngalamac&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,nodejs,webpack,babel,java,cpp,python,mongodb,mysql,git,github,githubactions,figma,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,redux,react,ruby,rails" />
+</p>
+
+---
+
+## 🎯 Future Learning Goals
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,bash,cs,dotnet,electron,flask,heroku,kotlin,kubernetes,linux,lua,pytorch,r,tensorflow,vue" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ngalamac&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy tackling challenging programming problems and transforming ideas into impactful digital products.
+
+---
+
+<p align="center">
+  <i>Open to collaboration, freelance opportunities, and exciting software engineering projects.</i>
+</p>
+```
